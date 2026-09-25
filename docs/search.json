@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "training.html",
+    "href": "training.html",
+    "title": "Training Materials",
+    "section": "",
+    "text": "A core objective of PPADEM is supporting research capacity building across African universities and partner institutions. This page will host open-access training modules, fieldwork protocols, and analytical tutorials produced by the team."
+  },
+  {
+    "objectID": "training.html#data-analysis-methods-tutorials",
+    "href": "training.html#data-analysis-methods-tutorials",
+    "title": "Training Materials",
+    "section": "Data Analysis & Methods Tutorials",
+    "text": "Data Analysis & Methods Tutorials\nPractical walkthroughs, code templates, and analytical exercises for analyzing multi-level political party and survey data.\n\nTutorials covering quantitative and qualitative methods, survey weighting, and computational text analysis will be shared here."
+  },
+  {
+    "objectID": "training.html#field-research-survey-protocols",
+    "href": "training.html#field-research-survey-protocols",
+    "title": "Training Materials",
+    "section": "Field Research & Survey Protocols",
+    "text": "Field Research & Survey Protocols\nProtocols, ethical guidance, and fieldwork standard operating procedures for researchers and enumerators.\n\nFieldwork manuals, elite interview protocols, and survey administration guidelines will be added here as fieldwork gets underway."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nPolitical Parties & Democracy in Africa\n",
+    "section": "",
+    "text": "ERC Synergy Project • 2026–2032\n\n\nThe GitHub home for analysis code, computational workflows, and training materials from the PPADEM research consortium."
+  },
+  {
+    "objectID": "index.html#project-materials",
+    "href": "index.html#project-materials",
+    "title": "\nPolitical Parties & Democracy in Africa\n",
+    "section": "Project Materials",
+    "text": "Project Materials\n\n\n\n\nAnalysis Code\n\n\nComputational workflows, data processing pipelines, analysis scripts, and replication packages.\n\n\nView Code & Repos →\n\n\n\n\nTraining Materials\n\n\nField research protocols, survey implementation toolkits, and data analysis tutorials.\n\n\nView Training Hub →\n\n\n\n\nAbout the Project\n\n\nProject background, Principal Investigators, partner institutions, and research objectives.\n\n\nRead About PPADEM →"
+  },
+  {
+    "objectID": "index.html#external-links",
+    "href": "index.html#external-links",
+    "title": "\nPolitical Parties & Democracy in Africa\n",
+    "section": "External Links",
+    "text": "External Links\n\nMain Project Site: politicalpartiesafrica.com/ppadem/\nGitHub Organisation: github.com/ppadem"
+  },
+  {
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "Analysis Code",
+    "section": "",
+    "text": "All computational workflows, data processing scripts, and replication packages developed under the PPADEM project will be shared openly across our GitHub repositories."
+  },
+  {
+    "objectID": "code.html#analysis-scripts-pipelines",
+    "href": "code.html#analysis-scripts-pipelines",
+    "title": "Analysis Code",
+    "section": "Analysis Scripts & Pipelines",
+    "text": "Analysis Scripts & Pipelines\nScripts and workflows for data collection, cleaning, and multi-level analysis will be published here as project analysis gets underway.\n\nAnalysis code, data processing pipelines, and text analysis scripts will be linked here alongside their respective repositories."
+  },
+  {
+    "objectID": "code.html#replication-archives",
+    "href": "code.html#replication-archives",
+    "title": "Analysis Code",
+    "section": "Replication Archives",
+    "text": "Replication Archives\nIn accordance with open science practices, research papers published by the PPADEM team will be accompanied by dedicated replication archives containing scripts, codebooks, and instructions.\n\nReplication archives for project papers will be indexed here with links to GitHub repositories and persistent DOIs."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About PPADEM",
+    "section": "",
+    "text": "Political Parties and Democracy in Africa (PPADEM) is an ambitious, collaborative multi-year research project investigating the role of political parties in shaping democracy across Africa.\nAccording to leading democracy watchdogs, political freedom across the continent has experienced significant challenges over the past decade. Observers often point to weak, clientelist political parties as primary drivers of this trend. However, some parties actively act to defend constitutional norms and strengthen democratic accountability. PPADEM investigates this variation through the largest empirical study of political parties ever conducted in Africa, analyzing 80 political parties across 25 nations.\nThe project is funded by an ERC Synergy Grant (2026–2032)."
+  },
+  {
+    "objectID": "about.html#principal-investigators",
+    "href": "about.html#principal-investigators",
+    "title": "About PPADEM",
+    "section": "Principal Investigators",
+    "text": "Principal Investigators\n\n\n\n\nRobert Mattes\n\n\nUniversity of Strathclyde\n\n\nProfessor of Politics and Co-Founder of Afrobarometer. Specialist in public opinion, political culture, and democratic development.\n\n\n\n\n\n\nGeorge Bob-Milliar\n\n\nKNUST, Ghana\n\n\nAssociate Professor of African Studies at Kwame Nkrumah University of Science and Technology. Specialist in party organisation and informal politics.\n\n\n\n\n\n\nSarah Lockwood\n\n\nUniversity of Bristol\n\n\nAssociate Professor in Politics. Expert in contentious politics, political communication, and digital campaign strategies.\n\n\n\n\n\n\nMatthias Krönke\n\n\nUniversity of Reading\n\n\nLecturer in Comparative Politics. Specialist in party institutionalisation, public service delivery, and multi-level survey research."
+  },
+  {
+    "objectID": "about.html#project-partners",
+    "href": "about.html#project-partners",
+    "title": "About PPADEM",
+    "section": "Project Partners",
+    "text": "Project Partners\n\nAfrobarometer: Pan-African, non-partisan survey research network conducting regular public attitude surveys across 40+ countries.\nJean Golding Institute: University of Bristol’s central data science and AI institute.\nBristol Digital Futures Institute (BDFI): Interdisciplinary institute researching the digital transformation of society."
+  },
+  {
+    "objectID": "about.html#main-project-website",
+    "href": "about.html#main-project-website",
+    "title": "About PPADEM",
+    "section": "Main Project Website",
+    "text": "Main Project Website\nFor news, conference announcements, team updates, and events, please visit the parent project website:\n👉 politicalpartiesafrica.com/ppadem/"
+  }
+]

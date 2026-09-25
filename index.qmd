@@ -1,0 +1,69 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+::: {.ppadem-hero}
+<div class="row align-items-center">
+<div class="col-lg-8">
+  <span class="ppadem-pill">ERC Synergy Project • 2026–2032</span>
+  <h1 class="ppadem-hero-title">Political Parties & Democracy in Africa</h1>
+  <p class="ppadem-hero-subtitle">
+    The GitHub home for analysis code, computational workflows, and training materials from the PPADEM research consortium.
+  </p>
+</div>
+<div class="col-lg-4 text-center mt-3 mt-lg-0">
+  <img src="images/PPADEM Logo.png" alt="PPADEM Logo" class="img-fluid" style="max-height: 140px; width: auto;">
+</div>
+</div>
+:::
+
+::: {.ppadem-highlights-strip}
+::: {.ppadem-highlight-tag}
+<strong>80</strong> Political Parties
+:::
+::: {.ppadem-highlight-tag}
+<strong>25</strong> African Countries
+:::
+::: {.ppadem-highlight-tag}
+<strong>6</strong> Empirical Workstreams
+:::
+:::
+
+## Project Materials
+
+::: {.ppadem-card-grid}
+
+::: {.ppadem-card}
+<div>
+  <h3>Analysis Code</h3>
+  <p>Computational workflows, data processing pipelines, analysis scripts, and replication packages.</p>
+</div>
+<a href="code.html" class="card-link">View Code & Repos &rarr;</a>
+:::
+
+::: {.ppadem-card}
+<div>
+  <h3>Training Materials</h3>
+  <p>Field research protocols, survey implementation toolkits, and data analysis tutorials.</p>
+</div>
+<a href="training.html" class="card-link">View Training Hub &rarr;</a>
+:::
+
+::: {.ppadem-card}
+<div>
+  <h3>About the Project</h3>
+  <p>Project background, Principal Investigators, partner institutions, and research objectives.</p>
+</div>
+<a href="about.html" class="card-link">Read About PPADEM &rarr;</a>
+:::
+
+:::
+
+---
+
+## External Links
+
+- **Main Project Site:** [politicalpartiesafrica.com/ppadem/](https://politicalpartiesafrica.com/ppadem/)
+- **GitHub Organisation:** [github.com/ppadem](https://github.com/ppadem)
