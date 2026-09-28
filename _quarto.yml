@@ -7,7 +7,7 @@ website:
   description: "Political Parties and Democracy in Africa — Analysis Code and Training Materials"
   site-url: "https://ppadem.github.io"
   favicon: images/PPADEM Logo.png
-  
+
   navbar:
     logo: images/PPADEM Logo.png
     title: "PPADEM"
@@ -31,10 +31,10 @@ website:
 
   page-footer:
     left: |
-      **PPADEM** — Political Parties and Democracy in Africa  
+      **PPADEM** — Political Parties and Democracy in Africa
       An ERC Synergy Project (2026–2032).
     right: |
-      [Afrobarometer](https://www.afrobarometer.org/) • [Jean Golding Institute](https://www.bristol.ac.uk/golding/) • [Bristol Digital Futures Institute](https://www.bristol.ac.uk/bristol-digital-futures-institute/)
+      [Afrobarometer](https://www.afrobarometer.org/) • [Jean Golding Institute](https://www.bristol.ac.uk/golding/)
     border: true
 
 format:
