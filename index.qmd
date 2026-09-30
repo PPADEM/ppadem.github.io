@@ -37,16 +37,16 @@ toc: false
 
 ::: {.ppadem-card}
 <div>
-  <h3>Analysis Code</h3>
+  <h3>Code & Packages</h3>
   <p>Computational workflows, data processing pipelines, analysis scripts, and replication packages.</p>
 </div>
-<a href="code.html" class="card-link">View Code & Repos &rarr;</a>
+<a href="code.html" class="card-link">View Outputs &rarr;</a>
 :::
 
 ::: {.ppadem-card}
 <div>
   <h3>Training Materials</h3>
-  <p>Field research protocols, survey implementation toolkits, and data analysis tutorials.</p>
+  <p>Technical tuorials covering topics in Digital Political Science</p>
 </div>
 <a href="training.html" class="card-link">View Training Hub &rarr;</a>
 :::

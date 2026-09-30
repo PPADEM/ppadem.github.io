@@ -1,6 +1,6 @@
 ---
 title: "Training Materials"
-subtitle: "Methodological toolkits, fieldwork guides, and tutorials"
+subtitle: "Technical tutorials for Digital Political Science"
 ---
 
 A core objective of PPADEM is supporting research capacity building across African universities and partner institutions. This page will host open-access training modules, fieldwork protocols, and analytical tutorials produced by the team.

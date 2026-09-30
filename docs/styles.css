@@ -10,12 +10,12 @@
   --ppadem-red-dark: #631217;
   --ppadem-red-soft: #FDF3F3;
   --ppadem-red-border: #F3D2D4;
-  
+
   --ppadem-gray: #555E68;
   --ppadem-gray-light: #F8F9FA;
   --ppadem-slate: #24292E;
   --ppadem-border: #E5E7EB;
-  
+
   --ppadem-text: #212529;
   --ppadem-white: #FFFFFF;
 }
@@ -145,6 +145,7 @@ a:hover {
 .ppadem-highlights-strip {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center; /* <-- Add this line */
   gap: 0.75rem;
   margin: 1.25rem 0 2rem 0;
 }
