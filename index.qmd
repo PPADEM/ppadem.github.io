@@ -60,10 +60,3 @@ toc: false
 :::
 
 :::
-
----
-
-## External Links
-
-- **Main Project Site:** [politicalpartiesafrica.com/ppadem/](https://politicalpartiesafrica.com/ppadem/)
-- **GitHub Organisation:** [github.com/ppadem](https://github.com/ppadem)
