@@ -18,8 +18,8 @@ Scripts and workflows for data collection, cleaning, and multi-level analysis wi
 ### Scoping Review Tool
 Computational workflow, search strings, screening logs, and extraction scripts used for the project scoping review.
 
-<a href="https://github.com/ppadem/scopingreview" class="card-link" target="_blank">
-  View Repository &rarr;
+<a href="https://ppadem.github.io/scopingreview" class="card-link" target="_blank">
+  View Tool Page &rarr;
 </a>
 :::
 :::
