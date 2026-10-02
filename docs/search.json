@@ -35,13 +35,6 @@
     "text": "Project Materials\n\n\n\n\nCode & Packages\n\n\nComputational workflows, data processing pipelines, analysis scripts, and replication packages.\n\n\nView Outputs →\n\n\n\n\nTraining Materials\n\n\nTechnical tuorials covering topics in Digital Political Science\n\n\nView Training Hub →\n\n\n\n\nAbout the Project\n\n\nProject background, Principal Investigators, partner institutions, and research objectives.\n\n\nRead About PPADEM →"
   },
   {
-    "objectID": "index.html#external-links",
-    "href": "index.html#external-links",
-    "title": "\nPolitical Parties & Democracy in Africa\n",
-    "section": "External Links",
-    "text": "External Links\n\nMain Project Site: politicalpartiesafrica.com/ppadem/\nGitHub Organisation: github.com/ppadem"
-  },
-  {
     "objectID": "code.html",
     "href": "code.html",
     "title": "Analysis Code",
@@ -53,7 +46,7 @@
     "href": "code.html#analysis-scripts-pipelines",
     "title": "Analysis Code",
     "section": "Analysis Scripts & Pipelines",
-    "text": "Analysis Scripts & Pipelines\nScripts and workflows for data collection, cleaning, and multi-level analysis will be published here as project analysis gets underway.\n\nAnalysis code, data processing pipelines, and text analysis scripts will be linked here alongside their respective repositories."
+    "text": "Analysis Scripts & Pipelines\nScripts and workflows for data collection, cleaning, and multi-level analysis will be published here as project analysis gets underway.\n\n\nScoping Review Tool\nComputational workflow, search strings, screening logs, and extraction scripts used for the project scoping review.\n View Repository →"
   },
   {
     "objectID": "code.html#replication-archives",
@@ -89,12 +82,5 @@
     "title": "About PPADEM",
     "section": "Project Partners",
     "text": "Project Partners\n\nAfrobarometer: Pan-African, non-partisan survey research network conducting regular public attitude surveys across 40+ countries.\nJean Golding Institute: University of Bristol’s central data science and AI institute.\nBristol Digital Futures Institute (BDFI): Interdisciplinary institute researching the digital transformation of society."
-  },
-  {
-    "objectID": "about.html#main-project-website",
-    "href": "about.html#main-project-website",
-    "title": "About PPADEM",
-    "section": "Main Project Website",
-    "text": "Main Project Website\nFor news, conference announcements, team updates, and events, please visit the parent project website: 👉 politicalpartiesafrica.com/ppadem/"
   }
 ]
