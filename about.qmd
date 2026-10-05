@@ -3,9 +3,9 @@ title: "About PPADEM"
 subtitle: "Political Parties and Democracy in Africa"
 ---
 
-**Political Parties and Democracy in Africa (PPADEM)** is an ambitious, collaborative multi-year research project investigating the role of political parties in shaping democracy across Africa, covering **80 political parties** across **25 nations**.
+**Political Parties and Democracy in Africa (PPADEM)** is an ambitious, collaborative multi-year research project investigating the role of political parties in shaping democracy across Africa, covering [**80 political parties**]{.highlight-teal} across [**25 nations**]{.highlight-gold}.
 
-The project is funded by an **ERC Synergy Grant** (2026–2032).
+The project is funded by an [**ERC Synergy Grant**]{.highlight-red} (2026–2032).
 
 
 
@@ -75,6 +75,30 @@ The project is funded by an **ERC Synergy Grant** (2026–2032).
 
 ## Project Partners
 
-- **[Afrobarometer](https://www.afrobarometer.org/):** Pan-African, non-partisan survey research network conducting regular public attitude surveys across 40+ countries.
-- **[Jean Golding Institute](https://www.bristol.ac.uk/golding/):** University of Bristol’s central data science and AI institute.
-- **[Bristol Digital Futures Institute (BDFI)](https://www.bristol.ac.uk/bristol-digital-futures-institute/):** Interdisciplinary institute researching the digital transformation of society.
+::: {.ppadem-card-grid}
+
+::: {.ppadem-card}
+<div>
+  <h3>Afrobarometer</h3>
+  <p>Pan-African, non-partisan survey research network conducting regular public attitude surveys across 40+ countries.</p>
+</div>
+<a href="https://www.afrobarometer.org/" class="card-link" target="_blank">Visit Website &rarr;</a>
+:::
+
+::: {.ppadem-card .teal}
+<div>
+  <h3>Jean Golding Institute</h3>
+  <p>University of Bristol’s central data science and AI institute.</p>
+</div>
+<a href="https://www.bristol.ac.uk/golding/" class="card-link" target="_blank">Visit Website &rarr;</a>
+:::
+
+::: {.ppadem-card .gold}
+<div>
+  <h3>Bristol Digital Futures Institute</h3>
+  <p>Interdisciplinary institute researching the digital transformation of society.</p>
+</div>
+<a href="https://www.bristol.ac.uk/bristol-digital-futures-institute/" class="card-link" target="_blank">Visit Website &rarr;</a>
+:::
+
+:::

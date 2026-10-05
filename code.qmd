@@ -5,8 +5,11 @@ subtitle: "Computational workflows, scripts, and replication archives"
 
 All computational workflows, data processing scripts, and replication packages developed under the PPADEM project will be shared openly across our GitHub repositories.
 
-::: {.placeholder-box}
-<strong>GitHub Organisation:</strong> Explore all active code repositories and pipelines at <a href="https://github.com/ppadem" target="_blank">github.com/ppadem</a>.
+::: {.ppadem-cta}
+## GitHub Organisation
+Explore all active code repositories and pipelines at github.com/ppadem.
+
+<a href="https://github.com/ppadem" class="btn" target="_blank">Visit GitHub Organisation &rarr;</a>
 :::
 
 ## Analysis Scripts & Pipelines
@@ -29,5 +32,7 @@ Computational workflow, search strings, screening logs, and extraction scripts u
 In accordance with open science practices, research papers published by the PPADEM team will be accompanied by dedicated replication archives containing scripts, codebooks, and instructions.
 
 ::: {.placeholder-box}
+[Coming Soon]{.ppadem-label}
+
 Replication archives for project papers will be indexed here with links to GitHub repositories and persistent DOIs.
 :::

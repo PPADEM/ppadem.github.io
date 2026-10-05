@@ -11,14 +11,14 @@
     "href": "training.html#data-analysis-methods-tutorials",
     "title": "Training Materials",
     "section": "Data Analysis & Methods Tutorials",
-    "text": "Data Analysis & Methods Tutorials\nPractical walkthroughs, code templates, and analytical exercises for analyzing multi-level political party and survey data.\n\nTutorials covering quantitative and qualitative methods, survey weighting, and computational text analysis will be shared here."
+    "text": "Data Analysis & Methods Tutorials\nPractical walkthroughs, code templates, and analytical exercises for analyzing multi-level political party and survey data.\n\nComing Soon\nTutorials covering quantitative and qualitative methods, survey weighting, and computational text analysis will be shared here."
   },
   {
     "objectID": "training.html#field-research-survey-protocols",
     "href": "training.html#field-research-survey-protocols",
     "title": "Training Materials",
     "section": "Field Research & Survey Protocols",
-    "text": "Field Research & Survey Protocols\nProtocols, ethical guidance, and fieldwork standard operating procedures for researchers and enumerators.\n\nFieldwork manuals, elite interview protocols, and survey administration guidelines will be added here as fieldwork gets underway."
+    "text": "Field Research & Survey Protocols\nProtocols, ethical guidance, and fieldwork standard operating procedures for researchers and enumerators.\n\nComing Soon\nFieldwork manuals, elite interview protocols, and survey administration guidelines will be added here as fieldwork gets underway."
   },
   {
     "objectID": "index.html",
@@ -35,11 +35,25 @@
     "text": "Project Materials\n\n\n\n\nCode & Packages\n\n\nComputational workflows, data processing pipelines, analysis scripts, and replication packages.\n\n\nView Outputs →\n\n\n\n\nTraining Materials\n\n\nTechnical tuorials covering topics in Digital Political Science\n\n\nView Training Hub →\n\n\n\n\nAbout the Project\n\n\nProject background, Principal Investigators, partner institutions, and research objectives.\n\n\nRead About PPADEM →"
   },
   {
+    "objectID": "index.html#follow-the-project-on-github",
+    "href": "index.html#follow-the-project-on-github",
+    "title": "\nPolitical Parties & Democracy in Africa\n",
+    "section": "Follow the Project on GitHub",
+    "text": "Follow the Project on GitHub\nAll PPADEM code, pipelines, and replication packages are published openly as the project progresses.\nVisit github.com/ppadem →"
+  },
+  {
     "objectID": "code.html",
     "href": "code.html",
     "title": "Analysis Code",
     "section": "",
     "text": "All computational workflows, data processing scripts, and replication packages developed under the PPADEM project will be shared openly across our GitHub repositories."
+  },
+  {
+    "objectID": "code.html#github-organisation",
+    "href": "code.html#github-organisation",
+    "title": "Analysis Code",
+    "section": "GitHub Organisation",
+    "text": "GitHub Organisation\nExplore all active code repositories and pipelines at github.com/ppadem.\nVisit GitHub Organisation →"
   },
   {
     "objectID": "code.html#analysis-scripts-pipelines",
@@ -53,7 +67,7 @@
     "href": "code.html#replication-archives",
     "title": "Analysis Code",
     "section": "Replication Archives",
-    "text": "Replication Archives\nIn accordance with open science practices, research papers published by the PPADEM team will be accompanied by dedicated replication archives containing scripts, codebooks, and instructions.\n\nReplication archives for project papers will be indexed here with links to GitHub repositories and persistent DOIs."
+    "text": "Replication Archives\nIn accordance with open science practices, research papers published by the PPADEM team will be accompanied by dedicated replication archives containing scripts, codebooks, and instructions.\n\nComing Soon\nReplication archives for project papers will be indexed here with links to GitHub repositories and persistent DOIs."
   },
   {
     "objectID": "about.html",
@@ -81,6 +95,6 @@
     "href": "about.html#project-partners",
     "title": "About PPADEM",
     "section": "Project Partners",
-    "text": "Project Partners\n\nAfrobarometer: Pan-African, non-partisan survey research network conducting regular public attitude surveys across 40+ countries.\nJean Golding Institute: University of Bristol’s central data science and AI institute.\nBristol Digital Futures Institute (BDFI): Interdisciplinary institute researching the digital transformation of society."
+    "text": "Project Partners\n\n\n\n\nAfrobarometer\n\n\nPan-African, non-partisan survey research network conducting regular public attitude surveys across 40+ countries.\n\n\nVisit Website →\n\n\n\n\nJean Golding Institute\n\n\nUniversity of Bristol’s central data science and AI institute.\n\n\nVisit Website →\n\n\n\n\nBristol Digital Futures Institute\n\n\nInterdisciplinary institute researching the digital transformation of society.\n\n\nVisit Website →"
   }
 ]

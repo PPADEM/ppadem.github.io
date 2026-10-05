@@ -6,7 +6,9 @@ subtitle: "Technical tutorials for Digital Political Science"
 A core objective of PPADEM is supporting research capacity building across African universities and partner institutions. This page will host open-access training modules, fieldwork protocols, and analytical tutorials produced by the team.
 
 ::: {.placeholder-box}
-<strong>Open Access:</strong> Training materials published here will be made openly available for use in university teaching, graduate methods seminars, and field research training.
+[Open Access]{.ppadem-label}
+
+Training materials published here will be made openly available for use in university teaching, graduate methods seminars, and field research training.
 :::
 
 ## Data Analysis & Methods Tutorials
@@ -14,6 +16,8 @@ A core objective of PPADEM is supporting research capacity building across Afric
 Practical walkthroughs, code templates, and analytical exercises for analyzing multi-level political party and survey data.
 
 ::: {.placeholder-box}
+[Coming Soon]{.ppadem-label}
+
 Tutorials covering quantitative and qualitative methods, survey weighting, and computational text analysis will be shared here.
 :::
 
@@ -23,5 +27,7 @@ Tutorials covering quantitative and qualitative methods, survey weighting, and c
 Protocols, ethical guidance, and fieldwork standard operating procedures for researchers and enumerators.
 
 ::: {.placeholder-box}
+[Coming Soon]{.ppadem-label}
+
 Fieldwork manuals, elite interview protocols, and survey administration guidelines will be added here as fieldwork gets underway.
 :::

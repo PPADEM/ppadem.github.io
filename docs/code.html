@@ -46,7 +46,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-bb47a2f863147e57f263fcb84ea8ee27.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-8bac9a08e45b4fc2aa48f1c92d892b86.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -77,7 +77,6 @@ ul.task-list li input[type="checkbox"] {
 <style>html{ scroll-behavior: smooth; }</style>
 
 
-<link rel="stylesheet" href="site_libs/quarto-contrib/quarto-project/ppadem/ppadem-theme/styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -145,7 +144,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#analysis-scripts-pipelines" id="toc-analysis-scripts-pipelines" class="nav-link active" data-scroll-target="#analysis-scripts-pipelines">Analysis Scripts &amp; Pipelines</a>
+  <li><a href="#github-organisation" id="toc-github-organisation" class="nav-link active" data-scroll-target="#github-organisation">GitHub Organisation</a></li>
+  <li><a href="#analysis-scripts-pipelines" id="toc-analysis-scripts-pipelines" class="nav-link" data-scroll-target="#analysis-scripts-pipelines">Analysis Scripts &amp; Pipelines</a>
   <ul class="collapse">
   <li><a href="#scoping-review-tool" id="toc-scoping-review-tool" class="nav-link" data-scroll-target="#scoping-review-tool">Scoping Review Tool</a></li>
   </ul></li>
@@ -177,9 +177,11 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>All computational workflows, data processing scripts, and replication packages developed under the PPADEM project will be shared openly across our GitHub repositories.</p>
-<div class="placeholder-box">
-<p><strong>GitHub Organisation:</strong> Explore all active code repositories and pipelines at <a href="https://github.com/ppadem" target="_blank">github.com/ppadem</a>.</p>
-</div>
+<section id="github-organisation" class="level2 ppadem-cta">
+<h2 class="anchored" data-anchor-id="github-organisation">GitHub Organisation</h2>
+<p>Explore all active code repositories and pipelines at github.com/ppadem.</p>
+<p><a href="https://github.com/ppadem" class="btn" target="_blank">Visit GitHub Organisation →</a></p>
+</section>
 <section id="analysis-scripts-pipelines" class="level2">
 <h2 class="anchored" data-anchor-id="analysis-scripts-pipelines">Analysis Scripts &amp; Pipelines</h2>
 <p>Scripts and workflows for data collection, cleaning, and multi-level analysis will be published here as project analysis gets underway.</p>
@@ -195,6 +197,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="replication-archives">Replication Archives</h2>
 <p>In accordance with open science practices, research papers published by the PPADEM team will be accompanied by dedicated replication archives containing scripts, codebooks, and instructions.</p>
 <div class="placeholder-box">
+<p><span class="ppadem-label">Coming Soon</span></p>
 <p>Replication archives for project papers will be indexed here with links to GitHub repositories and persistent DOIs.</p>
 </div>
 
@@ -289,6 +292,13 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+            // default icon
+            link.classList.add("external");
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
