@@ -23,10 +23,10 @@ toc: false
 ::: {.ppadem-highlight-tag}
 <strong>80</strong> Political Parties
 :::
-::: {.ppadem-highlight-tag}
+::: {.ppadem-highlight-tag .teal}
 <strong>25</strong> African Countries
 :::
-::: {.ppadem-highlight-tag}
+::: {.ppadem-highlight-tag .gold}
 <strong>6</strong> Empirical Workstreams
 :::
 :::
