@@ -5,13 +5,6 @@ subtitle: "Computational workflows, scripts, and replication archives"
 
 All computational workflows, data processing scripts, and replication packages developed under the PPADEM project will be shared openly across our GitHub repositories.
 
-::: {.ppadem-cta}
-## GitHub Organisation
-Explore all active code repositories and pipelines at github.com/ppadem.
-
-<a href="https://github.com/ppadem" class="btn" target="_blank">Visit GitHub Organisation &rarr;</a>
-:::
-
 ## Analysis Scripts & Pipelines
 
 Scripts and workflows for data collection, cleaning, and multi-level analysis will be published here as project analysis gets underway.

@@ -60,10 +60,3 @@ toc: false
 :::
 
 :::
-
-::: {.ppadem-cta .teal}
-## Follow the Project on GitHub
-All PPADEM code, pipelines, and replication packages are published openly as the project progresses.
-
-<a href="https://github.com/ppadem" class="btn" target="_blank">Visit github.com/ppadem &rarr;</a>
-:::

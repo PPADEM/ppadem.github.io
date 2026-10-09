@@ -4,7 +4,7 @@
     "href": "training.html",
     "title": "Training Materials",
     "section": "",
-    "text": "A core objective of PPADEM is supporting research capacity building across African universities and partner institutions. This page will host open-access training modules, fieldwork protocols, and analytical tutorials produced by the team."
+    "text": "A core objective of PPADEM is supporting research capacity building. This page will host open-access training modules, fieldwork protocols, and analytical tutorials produced by the team."
   },
   {
     "objectID": "training.html#data-analysis-methods-tutorials",
@@ -35,25 +35,11 @@
     "text": "Project Materials\n\n\n\n\nCode & Packages\n\n\nComputational workflows, data processing pipelines, analysis scripts, and replication packages.\n\n\nView Outputs →\n\n\n\n\nTraining Materials\n\n\nTechnical tuorials covering topics in Digital Political Science\n\n\nView Training Hub →\n\n\n\n\nAbout the Project\n\n\nProject background, Principal Investigators, partner institutions, and research objectives.\n\n\nRead About PPADEM →"
   },
   {
-    "objectID": "index.html#follow-the-project-on-github",
-    "href": "index.html#follow-the-project-on-github",
-    "title": "\nPolitical Parties & Democracy in Africa\n",
-    "section": "Follow the Project on GitHub",
-    "text": "Follow the Project on GitHub\nAll PPADEM code, pipelines, and replication packages are published openly as the project progresses.\nVisit github.com/ppadem →"
-  },
-  {
     "objectID": "code.html",
     "href": "code.html",
     "title": "Analysis Code",
     "section": "",
     "text": "All computational workflows, data processing scripts, and replication packages developed under the PPADEM project will be shared openly across our GitHub repositories."
-  },
-  {
-    "objectID": "code.html#github-organisation",
-    "href": "code.html#github-organisation",
-    "title": "Analysis Code",
-    "section": "GitHub Organisation",
-    "text": "GitHub Organisation\nExplore all active code repositories and pipelines at github.com/ppadem.\nVisit GitHub Organisation →"
   },
   {
     "objectID": "code.html#analysis-scripts-pipelines",

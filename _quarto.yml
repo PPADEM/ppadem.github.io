@@ -22,9 +22,6 @@ website:
       - href: about.qmd
         text: About
     right:
-      - icon: globe
-        text: Project Home
-        href: https://politicalpartiesafrica.com/ppadem/
       - icon: github
         aria-label: GitHub
         href: https://github.com/ppadem
@@ -34,7 +31,7 @@ website:
       **PPADEM** — Political Parties and Democracy in Africa
       An ERC Synergy Project (2026–2032).
     right: |
-      [Afrobarometer](https://www.afrobarometer.org/) • [Jean Golding Institute](https://www.bristol.ac.uk/golding/)
+      [PPADEM Homepage](https://politicalpartiesafrica.com/ppadem/) •[Afrobarometer](https://www.afrobarometer.org/) • [Jean Golding Institute](https://www.bristol.ac.uk/golding/)
     border: true
 
 format:
